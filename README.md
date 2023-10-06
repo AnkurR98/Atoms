@@ -2,9 +2,9 @@
 
 ### This is a clone of the famous GMTK Game Jam 2021 "Atoms". Embark on a visually appealing journey of an atom trying to make friends!
 <br>
-Play it here : <a href="https://shoumopal.itch.io/atoms">Play</a>
+[Play it here](https://shoumopal.itch.io/atoms)
 <br><br>
-Watch the demo : <a href="">Demo</a>
+[Watch the demo](https://shoumopal.itch.io/atoms)
 
 <hr>
 
